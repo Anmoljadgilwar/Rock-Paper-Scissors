@@ -2,10 +2,6 @@
 
 Welcome to the Stone-Paper-Scissors game repository! This project is a simple web-based game created using HTML, CSS, and JavaScript.
 
-## Demo
-
-You can play the game live [here](link-to-your-game).
-
 ## Features
 
 - Play against the computer in the classic Stone-Paper-Scissors game.
