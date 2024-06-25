@@ -6,13 +6,13 @@ Welcome to the Stone-Paper-Scissors game repository! This project is a simple we
 
 - Play against the computer in the classic Stone-Paper-Scissors game.
 - Simple and intuitive user interface.
-- Responsive design for seamless gameplay on different 
+- Responsive design for seamless gameplay on different
 
 ## Installation
 
 To run this game locally, follow these steps:
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine(example, vscode).
 2. Open the `index.html` file in your web browser.
 
 ## Usage
@@ -24,6 +24,5 @@ To run this game locally, follow these steps:
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
-
 
 Happy gaming!# Rock-Paper-Scissors
