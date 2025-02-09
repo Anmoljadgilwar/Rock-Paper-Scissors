@@ -25,4 +25,5 @@ To run this game locally, follow these steps:
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
 
-Happy gaming!# Rock-Paper-Scissors
+Happy gaming!  Rock-Paper-Scissors
+rockaperscissors# 
